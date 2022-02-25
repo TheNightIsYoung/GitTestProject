@@ -3,3 +3,5 @@
 # This is a Test!
 
 print('Git is very useful!!!')
+
+# Git has a mutable index called stage.
