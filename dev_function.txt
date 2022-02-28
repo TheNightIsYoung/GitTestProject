@@ -1,2 +1,5 @@
 # This is function about adding user.
 # This is function about adding permission.
+
+# This is function about adding user(no-ff).
+# This is function about adding permission(no-ff).
