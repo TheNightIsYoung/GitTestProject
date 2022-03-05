@@ -3,3 +3,5 @@
 
 # This is function about adding user(no-ff).
 # This is function about adding permission(no-ff).
+
+# Tag test for 'git tag -a v1.0 -m'.
